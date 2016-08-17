@@ -1,0 +1,14 @@
+layout_spectrum: 0.9718178720213473
+typography_spectrum: 0.027186238206923008
+color:
+  brandStrength: 0.2489074533805251
+  lightness: 0.6991273935418576
+  saturation: 0.33184453030116856
+  rhythmicContrast: 0.13927382230758667
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: endless campfire
